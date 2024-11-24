@@ -1,7 +1,7 @@
 # Natural Language Processing with Disaster Tweets
 
 <div align="center">
-  <img src="images/image.png" alt="Description" width="900" height="300">
+  <img src="images/image.png" alt="Description" width="900" height="400">
 </div>
 
 ## 1. Project introduction
