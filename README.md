@@ -6,7 +6,7 @@
 
 ## 1. Project introduction
 
-#### With the rapid development of digital technology today, each online user increasingly (ngay cang) has more opportunities to access and leverage valuable data more easily than over before..This opens the door for the development of various (da dang) applications, from market trend analysis to gaining deep insights into the moods and behaviors of groups of people on social mediall.Therefore, i choose Twitter as the source of data.
+#### With the rapid development of digital technology today, each online user increasingly (ngay cang) has more opportunities to access and leverage valuable data more easily than over before..This opens the door for the development of various (da dang) applications, from market trend analysis to gaining deep insights into the moods and behaviors of groups of people on social media.Therefore, i choose Twitter as the source of data.
 
 #### Why choose Twitter over other platforms ?
 
